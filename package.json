@@ -1,0 +1,27 @@
+{
+  "name": "ferreyra-portfolio",
+  "version": "1.0.0",
+  "description": "Ademir's portfolio website!",
+  "homepage": "https://github.com/arshibarshi/Ferreyra-Portfolio#readme",
+  "bugs": {
+    "url": "https://github.com/arshibarshi/Ferreyra-Portfolio/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arshibarshi/Ferreyra-Portfolio.git"
+  },
+  "license": "ISC",
+  "author": "Ademir Ferreyra",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.106.2",
+    "body-parser": "^2.2.2",
+    "express": "^5.2.1",
+    "nodemon": "^3.1.14",
+    "usa-state-validator": "^1.0.6"
+  }
+}
